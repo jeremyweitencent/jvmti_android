@@ -1,0 +1,18 @@
+# ninja log v5
+5	753	1651205487	CMakeFiles/dexter.dir/src/main/cpp/dexer/dex_utf8.cc.o	33f012106832428c
+3	821	1651205487	CMakeFiles/dexter.dir/src/main/cpp/dexer/dex_bytecode.cc.o	e9e5105c132547d3
+1	919	1651205488	CMakeFiles/dexter.dir/src/main/cpp/dexer/common.cc.o	b060fd00eb7d2381
+4	1616	1651205488	CMakeFiles/dexter.dir/src/main/cpp/dexer/dex_format.cc.o	24bb046025ce135e
+2	3398	1651205490	CMakeFiles/dexter.dir/src/main/cpp/dexer/control_flow_graph.cc.o	5090c231ab0e85ed
+3	3440	1651205490	CMakeFiles/dexter.dir/src/main/cpp/dexer/debuginfo_encoder.cc.o	c75e9dfe466730c1
+1	3976	1651205491	CMakeFiles/dexter.dir/src/main/cpp/dexer/bytecode_encoder.cc.o	71a8dbb09cdf0ff
+754	3987	1651205491	CMakeFiles/dexter.dir/src/main/cpp/dexer/tryblocks_encoder.cc.o	4d95e63786b6a1bf
+7	4214	1651205491	CMakeFiles/dexter.dir/src/main/cpp/dexer/instrumentation.cc.o	317b82bc8922bef4
+2	4461	1651205491	CMakeFiles/dexter.dir/src/main/cpp/dexer/dex_ir.cc.o	74f212f64feb2674
+9	4493	1651205491	CMakeFiles/dexter.dir/src/main/cpp/dexer/writer.cc.o	ebc699d95e64e4f4
+5	5048	1651205492	CMakeFiles/dexter.dir/src/main/cpp/dexer/dex_ir_builder.cc.o	b127ef9f7ffe0def
+0	5066	1651205492	CMakeFiles/jvmti_agent.dir/src/main/cpp/native-lib.cpp.o	382597e4bd42607b
+1	5507	1651205492	CMakeFiles/dexter.dir/src/main/cpp/dexer/code_ir.cc.o	80ed28dca06c9377
+6	6663	1651205493	CMakeFiles/dexter.dir/src/main/cpp/dexer/reader.cc.o	98428ff03d5b70f
+6663	7414	1651205494	libdexter.a	d2a806873864c2c2
+7414	8666	1651205495	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libjvmti_agent.so	d7ef43fc50ed7403

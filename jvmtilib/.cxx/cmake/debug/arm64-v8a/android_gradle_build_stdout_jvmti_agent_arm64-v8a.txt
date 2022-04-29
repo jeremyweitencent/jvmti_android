@@ -1,0 +1,35 @@
+ninja: Entering directory `/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/arm64-v8a'
+[1/17] Building CXX object CMakeFiles/dexter.dir/src/main/cpp/dexer/dex_utf8.cc.o
+[2/17] Building CXX object CMakeFiles/dexter.dir/src/main/cpp/dexer/dex_bytecode.cc.o
+[3/17] Building CXX object CMakeFiles/dexter.dir/src/main/cpp/dexer/common.cc.o
+[4/17] Building CXX object CMakeFiles/dexter.dir/src/main/cpp/dexer/dex_format.cc.o
+[5/17] Building CXX object CMakeFiles/dexter.dir/src/main/cpp/dexer/control_flow_graph.cc.o
+[6/17] Building CXX object CMakeFiles/dexter.dir/src/main/cpp/dexer/debuginfo_encoder.cc.o
+[7/17] Building CXX object CMakeFiles/dexter.dir/src/main/cpp/dexer/bytecode_encoder.cc.o
+[8/17] Building CXX object CMakeFiles/dexter.dir/src/main/cpp/dexer/tryblocks_encoder.cc.o
+[9/17] Building CXX object CMakeFiles/dexter.dir/src/main/cpp/dexer/instrumentation.cc.o
+[10/17] Building CXX object CMakeFiles/dexter.dir/src/main/cpp/dexer/dex_ir.cc.o
+[11/17] Building CXX object CMakeFiles/dexter.dir/src/main/cpp/dexer/writer.cc.o
+[12/17] Building CXX object CMakeFiles/dexter.dir/src/main/cpp/dexer/dex_ir_builder.cc.o
+[13/17] Building CXX object CMakeFiles/jvmti_agent.dir/src/main/cpp/native-lib.cpp.o
+../../../../src/main/cpp/native-lib.cpp:221:68: warning: format specifies type 'int' but the argument has type 'jlong' (aka 'long') [-Wformat]
+    ALOGI("==========alloc callback======= %s {size:%d}",className,size);
+                                                    ~~             ^~~~
+                                                    %ld
+../../../../src/main/cpp/native-lib.cpp:17:67: note: expanded from macro 'ALOGI'
+#define ALOGI(...) __android_log_print(ANDROID_LOG_INFO, LOG_TAG, __VA_ARGS__)
+                                                                  ^~~~~~~~~~~
+../../../../src/main/cpp/native-lib.cpp:25:1: warning: unused function 'addLabel' [-Wunused-function]
+addLabel(CodeIr &c,
+^
+../../../../src/main/cpp/native-lib.cpp:72:1: warning: unused function 'ClassNameToDescriptor' [-Wunused-function]
+ClassNameToDescriptor(const char *class_name) {
+^
+../../../../src/main/cpp/native-lib.cpp:83:1: warning: unused function 'getNumParams' [-Wunused-function]
+getNumParams(ir::EncodedMethod *method) {
+^
+4 warnings generated.
+[14/17] Building CXX object CMakeFiles/dexter.dir/src/main/cpp/dexer/code_ir.cc.o
+[15/17] Building CXX object CMakeFiles/dexter.dir/src/main/cpp/dexer/reader.cc.o
+[16/17] Linking CXX static library libdexter.a
+[17/17] Linking CXX shared library ../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libjvmti_agent.so

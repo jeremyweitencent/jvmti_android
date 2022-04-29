@@ -1,0 +1,4 @@
+/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/x86/CMakeFiles/jvmti_agent.dir
+/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/x86/CMakeFiles/dexter.dir

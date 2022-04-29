@@ -1,0 +1,45 @@
+{
+  "buildFiles": [
+    "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/bytedance/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/bytedance/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "jvmti_agent-Debug-x86": {
+      "artifactName": "jvmti_agent",
+      "buildCommandComponents": [
+        "/Users/bytedance/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/x86",
+        "jvmti_agent"
+      ],
+      "abi": "x86",
+      "output": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/build/intermediates/cmake/debug/obj/x86/libjvmti_agent.so",
+      "runtimeFiles": []
+    },
+    "dexter-Debug-x86": {
+      "artifactName": "dexter",
+      "buildCommandComponents": [
+        "/Users/bytedance/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/x86",
+        "dexter"
+      ],
+      "abi": "x86",
+      "output": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/x86/libdexter.a",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "buildFiles": [
+    "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/bytedance/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/bytedance/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "dexter-Debug-armeabi-v7a": {
+      "artifactName": "dexter",
+      "buildCommandComponents": [
+        "/Users/bytedance/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/armeabi-v7a",
+        "dexter"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/armeabi-v7a/libdexter.a",
+      "runtimeFiles": []
+    },
+    "jvmti_agent-Debug-armeabi-v7a": {
+      "artifactName": "jvmti_agent",
+      "buildCommandComponents": [
+        "/Users/bytedance/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/armeabi-v7a",
+        "jvmti_agent"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/build/intermediates/cmake/debug/obj/armeabi-v7a/libjvmti_agent.so",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,91 @@
+[
+{
+  "directory": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djvmti_agent_EXPORTS -I../../../../src/main/cpp/dexer  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=c++11 -frtti -Wall -Wno-unused-parameter -Wno-unused-variable -Wno-shift-count-overflow -Wno-error=non-virtual-dtor -Wno-sign-compare -Wno-switch -Wno-missing-braces -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/jvmti_agent.dir/src/main/cpp/native-lib.cpp.o -c /Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/native-lib.cpp",
+  "file": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/native-lib.cpp"
+},
+
+{
+  "directory": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I../../../../src/main/cpp/dexer  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=c++11 -frtti -Wall -Wno-unused-parameter -Wno-unused-variable -Wno-shift-count-overflow -Wno-error=non-virtual-dtor -Wno-sign-compare -Wno-switch -Wno-missing-braces -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/dexter.dir/src/main/cpp/dexer/bytecode_encoder.cc.o -c /Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/bytecode_encoder.cc",
+  "file": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/bytecode_encoder.cc"
+},
+
+{
+  "directory": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I../../../../src/main/cpp/dexer  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=c++11 -frtti -Wall -Wno-unused-parameter -Wno-unused-variable -Wno-shift-count-overflow -Wno-error=non-virtual-dtor -Wno-sign-compare -Wno-switch -Wno-missing-braces -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/dexter.dir/src/main/cpp/dexer/code_ir.cc.o -c /Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/code_ir.cc",
+  "file": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/code_ir.cc"
+},
+
+{
+  "directory": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I../../../../src/main/cpp/dexer  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=c++11 -frtti -Wall -Wno-unused-parameter -Wno-unused-variable -Wno-shift-count-overflow -Wno-error=non-virtual-dtor -Wno-sign-compare -Wno-switch -Wno-missing-braces -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/dexter.dir/src/main/cpp/dexer/common.cc.o -c /Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/common.cc",
+  "file": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/common.cc"
+},
+
+{
+  "directory": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I../../../../src/main/cpp/dexer  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=c++11 -frtti -Wall -Wno-unused-parameter -Wno-unused-variable -Wno-shift-count-overflow -Wno-error=non-virtual-dtor -Wno-sign-compare -Wno-switch -Wno-missing-braces -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/dexter.dir/src/main/cpp/dexer/control_flow_graph.cc.o -c /Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/control_flow_graph.cc",
+  "file": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/control_flow_graph.cc"
+},
+
+{
+  "directory": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I../../../../src/main/cpp/dexer  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=c++11 -frtti -Wall -Wno-unused-parameter -Wno-unused-variable -Wno-shift-count-overflow -Wno-error=non-virtual-dtor -Wno-sign-compare -Wno-switch -Wno-missing-braces -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/dexter.dir/src/main/cpp/dexer/debuginfo_encoder.cc.o -c /Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/debuginfo_encoder.cc",
+  "file": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/debuginfo_encoder.cc"
+},
+
+{
+  "directory": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I../../../../src/main/cpp/dexer  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=c++11 -frtti -Wall -Wno-unused-parameter -Wno-unused-variable -Wno-shift-count-overflow -Wno-error=non-virtual-dtor -Wno-sign-compare -Wno-switch -Wno-missing-braces -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/dexter.dir/src/main/cpp/dexer/dex_bytecode.cc.o -c /Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/dex_bytecode.cc",
+  "file": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/dex_bytecode.cc"
+},
+
+{
+  "directory": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I../../../../src/main/cpp/dexer  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=c++11 -frtti -Wall -Wno-unused-parameter -Wno-unused-variable -Wno-shift-count-overflow -Wno-error=non-virtual-dtor -Wno-sign-compare -Wno-switch -Wno-missing-braces -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/dexter.dir/src/main/cpp/dexer/dex_format.cc.o -c /Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/dex_format.cc",
+  "file": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/dex_format.cc"
+},
+
+{
+  "directory": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I../../../../src/main/cpp/dexer  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=c++11 -frtti -Wall -Wno-unused-parameter -Wno-unused-variable -Wno-shift-count-overflow -Wno-error=non-virtual-dtor -Wno-sign-compare -Wno-switch -Wno-missing-braces -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/dexter.dir/src/main/cpp/dexer/dex_ir.cc.o -c /Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/dex_ir.cc",
+  "file": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/dex_ir.cc"
+},
+
+{
+  "directory": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I../../../../src/main/cpp/dexer  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=c++11 -frtti -Wall -Wno-unused-parameter -Wno-unused-variable -Wno-shift-count-overflow -Wno-error=non-virtual-dtor -Wno-sign-compare -Wno-switch -Wno-missing-braces -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/dexter.dir/src/main/cpp/dexer/dex_ir_builder.cc.o -c /Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/dex_ir_builder.cc",
+  "file": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/dex_ir_builder.cc"
+},
+
+{
+  "directory": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I../../../../src/main/cpp/dexer  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=c++11 -frtti -Wall -Wno-unused-parameter -Wno-unused-variable -Wno-shift-count-overflow -Wno-error=non-virtual-dtor -Wno-sign-compare -Wno-switch -Wno-missing-braces -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/dexter.dir/src/main/cpp/dexer/dex_utf8.cc.o -c /Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/dex_utf8.cc",
+  "file": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/dex_utf8.cc"
+},
+
+{
+  "directory": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I../../../../src/main/cpp/dexer  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=c++11 -frtti -Wall -Wno-unused-parameter -Wno-unused-variable -Wno-shift-count-overflow -Wno-error=non-virtual-dtor -Wno-sign-compare -Wno-switch -Wno-missing-braces -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/dexter.dir/src/main/cpp/dexer/instrumentation.cc.o -c /Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/instrumentation.cc",
+  "file": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/instrumentation.cc"
+},
+
+{
+  "directory": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I../../../../src/main/cpp/dexer  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=c++11 -frtti -Wall -Wno-unused-parameter -Wno-unused-variable -Wno-shift-count-overflow -Wno-error=non-virtual-dtor -Wno-sign-compare -Wno-switch -Wno-missing-braces -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/dexter.dir/src/main/cpp/dexer/reader.cc.o -c /Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/reader.cc",
+  "file": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/reader.cc"
+},
+
+{
+  "directory": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I../../../../src/main/cpp/dexer  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=c++11 -frtti -Wall -Wno-unused-parameter -Wno-unused-variable -Wno-shift-count-overflow -Wno-error=non-virtual-dtor -Wno-sign-compare -Wno-switch -Wno-missing-braces -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/dexter.dir/src/main/cpp/dexer/tryblocks_encoder.cc.o -c /Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/tryblocks_encoder.cc",
+  "file": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/tryblocks_encoder.cc"
+},
+
+{
+  "directory": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/bytedance/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot   -I../../../../src/main/cpp/dexer  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -std=c++11 -frtti -Wall -Wno-unused-parameter -Wno-unused-variable -Wno-shift-count-overflow -Wno-error=non-virtual-dtor -Wno-sign-compare -Wno-switch -Wno-missing-braces -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/dexter.dir/src/main/cpp/dexer/writer.cc.o -c /Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/writer.cc",
+  "file": "/Users/bytedance/code/JVMTI_Sample-master/jvmtilib/src/main/cpp/dexer/writer.cc"
+}
+]
